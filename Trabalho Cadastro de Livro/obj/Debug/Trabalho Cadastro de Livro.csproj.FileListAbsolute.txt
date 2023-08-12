@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\bin\Debug\Trabalho Cadastro de Livro.exe.config
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\bin\Debug\Trabalho Cadastro de Livro.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\bin\Debug\Trabalho Cadastro de Livro.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\obj\Debug\Trabalho Cadastro de Livro.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\obj\Debug\Trabalho Cadastro de Livro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\obj\Debug\Trabalho_Cadastro_de_Livro.Form1.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\obj\Debug\Trabalho_Cadastro_de_Livro.Properties.Resources.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\obj\Debug\Trabalho Cadastro de Livro.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\obj\Debug\Trabalho Cadastro de Livro.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\obj\Debug\Trabalho Cadastro de Livro.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Trabalho Cadastro de Livro\Trabalho Cadastro de Livro\obj\Debug\Trabalho Cadastro de Livro.pdb
