@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Trabalho_Cadastro_de_Livro
+
 {
     public partial class Form1 : Form
     {
@@ -16,6 +17,8 @@ namespace Trabalho_Cadastro_de_Livro
         public Form1()
         {
             InitializeComponent();
+            Livro v = new Livro();
+            v.LerArquivo();
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -53,6 +56,8 @@ namespace Trabalho_Cadastro_de_Livro
                 dataGrid_livro.Refresh();
                 dataGrid_livro.DataSource = livros;
 
+                
+
             }
             catch (FormatException ex)
             {
@@ -66,7 +71,9 @@ namespace Trabalho_Cadastro_de_Livro
 
             if (livro.Salvar(livro))
             {
-                MessageBox.Show("Livro salvo com sucesso.");
+                MessageBox.Show($"Livro salvo com sucesso.");
+                //MessageBox.Show(livro.LerArquivo());
+
             }
             else
             {
